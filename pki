@@ -1,0 +1,8 @@
+set_var EASYRSA_REQ_COUNTRY "IR"
+set_var EASYRSA_REQ_PROVINCE "Tehran"
+set_var EASYRSA_REQ_CITY "Tehran"
+set_var EASYRSA_REQ_ORG "YourOrg"
+set_var EASYRSA_REQ_EMAIL="mehdimoradi1363@github.com"
+set_var EASYRSA_REQ_OU="MyVPN"
+set_var EASYRSA_ALGO="ec"
+set_var EASYRSA_DIGEST="sha512"
