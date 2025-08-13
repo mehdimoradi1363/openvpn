@@ -1,0 +1,2 @@
+./easyrsa gen-req server nopass
+./easyrsa sign-req server server
