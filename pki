@@ -1,0 +1,2 @@
+./easyrsa init-pki
+./easyrsa build-ca nopass  # اگر پسورد نمی‌خواهید
